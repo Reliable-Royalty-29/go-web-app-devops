@@ -5,10 +5,10 @@
 replicaCount: 1
 
 image:
-  repository: dheeman29/go-app-image
+  repository: dheeman29/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "10234524538"
+  tag: "10234569618"
 
 ingress:
   enabled: false
