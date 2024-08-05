@@ -248,7 +248,7 @@ Pull the Helm chart and deploy it into the EKS cluster using Argo CD.
 
 ## Conclusion
 
-You have now successfully built, containerized, and deployed your Go Lang application on an EKS cluster using Helm and Argo CD. The CI/CD pipeline ensures your application is continuously integrated and deployed with ease.
+Congratulations!!! You have now successfully built, containerized, and deployed your Go Lang application on an EKS cluster using Helm and Argo CD. The CI/CD pipeline ensures your application is continuously integrated and deployed with ease.
 
 
 
