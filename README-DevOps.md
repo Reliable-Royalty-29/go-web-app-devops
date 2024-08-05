@@ -76,6 +76,23 @@ The Argo CD application will deploy the Go web application to a Kubernetes clust
 	                                   |
                                    	  DNS
 
+## Installation required for project:
+
+- Download and install Go version 1.22.5
+  wget https://golang.org/dl/go1.22.5.linux-amd64.tar.gz
+  sudo tar -C /usr/local -xzf go1.22.5.linux-amd64.tar.gz
+  
+- Add Go to PATH
+  echo "export PATH=$PATH:/usr/local/go/bin" >> ~/.profile
+  source ~/.profile
+  
+- Verify the installation
+  go version
+  
+- Remove the current version of Go
+sudo apt-get remove golang-go
+sudo apt-get remove --auto-remove golang-go
+sudo rm -rf /usr/local/go
 
 
 ## Conclusion
