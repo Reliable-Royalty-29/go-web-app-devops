@@ -77,7 +77,7 @@ The Argo CD application will deploy the Go web application to a Kubernetes clust
                                    	  DNS
 
 
-```markdown
+
 ## Installation Instructions
 
 ### 1. Download and Install Go Version 1.22.5
