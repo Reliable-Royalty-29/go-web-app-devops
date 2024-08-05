@@ -8,6 +8,7 @@ on:
       - 'helm/**'
       - 'k8s/**'
       - 'README.md'
+      - 'README-DevOps.md'
 
 jobs:
   build:
