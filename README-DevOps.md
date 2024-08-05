@@ -74,7 +74,7 @@ The Argo CD application will deploy the Go web application to a Kubernetes clust
 	5. Helm Chart 
 	6. Ingress Controller:  LB -> Exposed
 	                                   |
-                                   DNS!
+                                   	  DNS
 
 
 
